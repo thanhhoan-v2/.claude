@@ -87,5 +87,17 @@
     "type": "command",
     "command": "npx -y ccstatusline@latest",
     "padding": 0
+  },
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cat ~/.claude/core/PRINCIPLES.md"
+          }
+        ]
+      }
+    ]
   }
 }

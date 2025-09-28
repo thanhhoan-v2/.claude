@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Analyze project structure and find all documentation files",
+    "status": "in_progress",
+    "activeForm": "Analyzing project structure and finding documentation files"
+  },
+  {
+    "content": "Read and assess existing documentation",
+    "status": "pending",
+    "activeForm": "Reading and assessing existing documentation"
+  },
+  {
+    "content": "Provide documentation overview and recommendations",
+    "status": "pending",
+    "activeForm": "Providing documentation overview and recommendations"
+  }
+]

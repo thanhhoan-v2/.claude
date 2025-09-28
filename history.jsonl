@@ -1,0 +1,30 @@
+{"display":"where is \"/absolute/path/to/node_modules/@anthropic-ai/claude-code\"?","pastedContents":{},"timestamp":1759018605988,"project":"/Users/thanhhoann/.claude"}
+{"display":"hi","pastedContents":{},"timestamp":1759020042104,"project":"/Users/thanhhoann/.claude"}
+{"display":"/clear ","pastedContents":{},"timestamp":1759027000095,"project":"/Users/thanhhoann/.claude"}
+{"display":"/clear ","pastedContents":{},"timestamp":1759027000121,"project":"/Users/thanhhoann/.claude"}
+{"display":"/clear ","pastedContents":{},"timestamp":1759027000122,"project":"/Users/thanhhoann/.claude"}
+{"display":"/permissions ","pastedContents":{},"timestamp":1759027900165,"project":"/Users/thanhhoann/.claude"}
+{"display":"/permissions ","pastedContents":{},"timestamp":1759027900190,"project":"/Users/thanhhoann/.claude"}
+{"display":"/permissions ","pastedContents":{},"timestamp":1759027900192,"project":"/Users/thanhhoann/.claude"}
+{"display":"/permissions ","pastedContents":{},"timestamp":1759028575267,"project":"/Users/thanhhoann/.claude"}
+{"display":"/permissions ","pastedContents":{},"timestamp":1759028575269,"project":"/Users/thanhhoann/.claude"}
+{"display":"/permissions ","pastedContents":{},"timestamp":1759028575270,"project":"/Users/thanhhoann/.claude"}
+{"display":"/docs ","pastedContents":{},"timestamp":1759028685564,"project":"/Users/thanhhoann/.claude"}
+{"display":"/docs ","pastedContents":{},"timestamp":1759028685594,"project":"/Users/thanhhoann/.claude"}
+{"display":"in @settings.json , add more bash common commands, except for dangerous commands like \"rm -rf\" or version control like \"add\", \"commit\", \"push\", \"stash\", ...","pastedContents":{},"timestamp":1759035984938,"project":"/Users/thanhhoann/.claude"}
+{"display":"/commit ","pastedContents":{},"timestamp":1759036328873,"project":"/Users/thanhhoann/.claude"}
+{"display":"/commit ","pastedContents":{},"timestamp":1759036328898,"project":"/Users/thanhhoann/.claude"}
+{"display":"!git push origin main","pastedContents":{},"timestamp":1759036380095,"project":"/Users/thanhhoann/.claude"}
+{"display":"!git push origin main","pastedContents":{},"timestamp":1759036380121,"project":"/Users/thanhhoann/.claude"}
+{"display":"!git push origin main","pastedContents":{},"timestamp":1759036380121,"project":"/Users/thanhhoann/.claude"}
+{"display":"see @settings.json and investigate why I'm not allowing \"git commit\" but you've previously run without asking me","pastedContents":{},"timestamp":1759036473457,"project":"/Users/thanhhoann/.claude"}
+{"display":"x","pastedContents":{},"timestamp":1759036515021,"project":"/Users/thanhhoann/.claude"}
+{"display":"configure @settings.json to have a hook before every prompt call","pastedContents":{},"timestamp":1759052218267,"project":"/Users/thanhhoann/.claude"}
+{"display":"hi","pastedContents":{},"timestamp":1759052255253,"project":"/Users/thanhhoann/.claude"}
+{"display":"hi","pastedContents":{},"timestamp":1759052255280,"project":"/Users/thanhhoann/.claude"}
+{"display":"config the @settings.json to read @core/PRINCIPLES.md in UserPreSUbmit hook. ","pastedContents":{},"timestamp":1759052633624,"project":"/Users/thanhhoann/.claude"}
+{"display":"config the @settings.json to read @core/PRINCIPLES.md in UserPreSUbmit hook. ","pastedContents":{},"timestamp":1759052633652,"project":"/Users/thanhhoann/.claude"}
+{"display":"write the path to have relative path","pastedContents":{},"timestamp":1759052652094,"project":"/Users/thanhhoann/.claude"}
+{"display":"write the path to have relative path","pastedContents":{},"timestamp":1759052652122,"project":"/Users/thanhhoann/.claude"}
+{"display":"testing... \"hi\" (can you read the principles?)","pastedContents":{},"timestamp":1759052716549,"project":"/Users/thanhhoann/.claude"}
+{"display":"testing... \"hi\" (can you read the principles?)","pastedContents":{},"timestamp":1759052716574,"project":"/Users/thanhhoann/.claude"}
